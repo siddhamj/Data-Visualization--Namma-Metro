@@ -196,12 +196,6 @@ Corridor Strength = Sum(Ridership from A → B)
 
 ## **Installation**
 
-Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-```
-
 Install required packages:
 
 ```r
@@ -227,30 +221,6 @@ Ensure CSVs are placed correctly and file paths updated in the script.
 
 ---
 
-## **Project Structure**
-
-```
-├── README.md
-├── app.R
-├── station-hourly.csv
-├── stationpair-hourly.csv
-└── visualizations/
-```
-
----
-
-## **Sample Visuals**
-
-(Add screenshots here once you upload images)
-
-```
-/visualizations/heatmap.png  
-/visualizations/od_corridors.png  
-/visualizations/peak_pressure.png  
-```
-
----
-
 ## **Limitations**
 
 * Only **2 months** of data; limited seasonal/event insight.
@@ -259,20 +229,6 @@ Ensure CSVs are placed correctly and file paths updated in the script.
 
 ---
 
-## **Team**
-
-Created by **Siddham Jasoria** as part of the MBA Data Visualisation module at **MDI Gurgaon**.
-
----
-
 ## **License**
 
 This project is open-sourced under the **MIT License**.
-
----
-
-If you want, I can also generate:
-
-* A project banner
-* A GitHub Pages website version
-* Badges (R, Shiny, MIT License etc.)
