@@ -73,7 +73,7 @@ This dataset allows Rapido (or any mobility platform) to:
 
 ## **Proxy Metrics Explained**
 
-Metro data doesn’t directly contain “Rapido trips,” so several **derived metrics (proxies)** were designed to interpret mobility demand.
+Several **derived metrics (proxies)** were designed to interpret mobility demand.
 
 ---
 
